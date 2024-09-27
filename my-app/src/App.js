@@ -76,7 +76,7 @@ const TodoList = () => {
       </FontAwesomeIcon>
       <h1
         className='header'
-      >Reminders</h1>
+      >Reminder Me</h1>
       <label
         className='label-checkbox'>
         <input
@@ -84,7 +84,6 @@ const TodoList = () => {
           type='checkbox'
           checked={isCompleted}
           onChange={e => setIsCompleted(e.target.checked)}
-
         />
         Things to remember
         {' '}
