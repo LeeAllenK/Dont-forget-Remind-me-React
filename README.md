@@ -8,8 +8,7 @@
  Tech used: HTML, CSS, JavaScript , React , Node.js<br/><br/>
   With the improvement of my skills this application has a more designed UI. While implementing React and Node.js it made for a more crisp user experience.<br/><br/>
   1. git clone repo<br/>
-  2. npm install<br/>
-  3. localhost
+  2. npm install
 </div>
 
 
