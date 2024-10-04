@@ -7,6 +7,9 @@
  <h1 class="heading-element" dir="auto">How It's Made:</h1>
  Tech used: HTML, CSS, JavaScript , React , Node.js<br/><br/>
   With the improvement of my skills this application has a more designed UI. While implementing React and Node.js it made for a more crisp user experience.
+  1. git clone repo
+  2. npm install
+  3. localhost
 </div>
 
 
