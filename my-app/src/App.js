@@ -76,7 +76,7 @@ const TodoList = () => {
       </FontAwesomeIcon>
       <h1
         className='header'
-      >Reminder Me</h1>
+      >Remind Me</h1>
       <label
         className='label-checkbox'>
         <input
