@@ -1,5 +1,6 @@
 <div id="header" >
  <h1  class="heading-element" dir="auto">Don't Forget Remind Me</h1>
+  <img src="https://i.imgur.com/nJMzNnw.gif" alt="Don't Forget Remind Me">
   A reminder application helps users with tasks completed vs tasks that are incomplete.
 </div>
 
