@@ -15,7 +15,7 @@
 
 <div id="header" >
  <h1 class="heading-element" dir="auto">Optimizations:</h1>
-  I would add a login page for users. Also make this application fullstack so login and information stays with user until deleted.
+  I would add a login page for users(Updated created login). Also make this application fullstack so login and information stays with user until deleted.
 </div>
 
 <div id="header">
