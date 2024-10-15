@@ -1,4 +1,3 @@
-
 import { initializeApp } from "firebase/app";
 import { getAuth, GoogleAuthProvider } from "firebase/auth"
 
@@ -11,7 +10,6 @@ const firebaseConfig = {
   appId: process.env.REACT_APP_ID,
   measurementId: process.env.REACT_APP_MEASURE
 };
-
 
 const app = initializeApp(firebaseConfig);
 const auth = getAuth(app);
