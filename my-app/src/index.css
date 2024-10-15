@@ -1,0 +1,103 @@
+.signIn {
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  -moz-transform: translate(-50%, -50%);
+  /* Firefox */
+  -ms-transform: translate(-50%, -50%);
+  /* IE 9 */
+  -webkit-transform: translate(-50%, -50%);
+  /* Safari and Chrome*/
+  -o-transform: translate(-50%, -50%);
+  /* Opera */
+  transform: translate(-50%, -50%);
+}
+
+.signinBtn {
+  color: white;
+  background-color: black;
+  border: 3px solid white;
+  border-radius: 50px;
+  font-size: 100px;
+  box-shadow: 0px 10px rgb(6, 6, 6);
+  cursor: pointer;
+}
+
+.logoutBtn {
+  float: right;
+  font-size: 25px;
+  border: 3px solid black;
+  font-weight: bolder;
+  border-radius: 20px;
+  background-color: white;
+  cursor: pointer;
+}
+.logoutBtn:hover {
+  transform: scale(1.1);
+}
+.app {
+  background-color: black;
+  color: white;
+  font-size: 25px;
+  font-weight: bolder;
+}
+
+.header {
+  display: flex;
+  justify-content: center;
+}
+
+.checkbox {
+  cursor: pointer;
+}
+
+.add-todo {
+  display: flex;
+  justify-content: center;
+}
+
+.addTodo {
+  border: 1px solid rgb(3, 3, 3);
+  border-radius: 10px;
+  font-size: 30px;
+  font-weight: bolder;
+}
+
+.addButton {
+  border-radius: 10px;
+  font-size: 20px;
+  font-weight: bolder;
+  cursor: pointer;
+}
+
+.addButton:hover {
+  transform: scale(1.2);
+}
+
+.todo-list {
+  display: flex;
+  justify-content: center;
+  list-style-type: none;
+  border-radius: 100% 100% 100% 100%;
+  margin: auto;
+  border: 2px solid rgb(252, 251, 251);
+  border-top: none;
+  border-bottom: thick line;
+  width: 600px;
+  cursor: pointer;
+}
+
+.submitButton {
+  font-size: 20px;
+  font-weight: bolder;
+  border-radius: 20px;
+  outline: none;
+  cursor: pointer;
+}
+.submitButton:hover{
+  transform: scale(1.2);
+}
+.footer {
+  display: flex;
+  justify-content: center;
+}
