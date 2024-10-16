@@ -7,11 +7,10 @@
 <div id="header" >
  <h1 class="heading-element" dir="auto">How It's Made:</h1>
  Tech used: HTML, CSS, JavaScript , React , Node.js<br/><br/>
-  With the improvement of my skills this application has a more designed UI. While implementing React and Node.js it made for a more crisp user experience.<br/><br/>
+  With the improvement of my skills this application has a more designed UI. While implementing React and Node.js it made for a more crisp user experience. Users have the ability to sign-in with their gmail account ensures each user has their personal reminders according to the account. <br/><br/>
   1. git clone repo<br/>
   2. npm install
 </div>
-<!-- https://i.imgur.com/nJMzNnw.gif -->
 
 <div id="header" >
  <h1 class="heading-element" dir="auto">Optimizations:</h1>
@@ -20,5 +19,5 @@
 
 <div id="header">
  <h1 class="heading-element" dir="auto">Lessons Learned:</h1>
-  Make use of 'props'  and components in React.
+  Make use of 'props'  and components in React. Creating seperate files for a component I have found helps with readability. 
 </div>
