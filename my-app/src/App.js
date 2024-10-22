@@ -10,7 +10,6 @@ import { faSun } from '@fortawesome/free-solid-svg-icons';
 
 import Home from './googleSignin/Home'
 
-console.log(process.env.REACT_APP_API_KEY)
 const TodoList = () => {
   //state used for reminders
   const [reminders, setReminders] = useState(ogReminders);
@@ -51,6 +50,7 @@ const TodoList = () => {
     setReminders(delButton);
   }
 
+  
   //Crossout reminder for completion
   const strikeButton = (id) => {
     const strike = [...reminders];
